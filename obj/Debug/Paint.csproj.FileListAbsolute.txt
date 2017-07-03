@@ -1,0 +1,16 @@
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\bin\Debug\Paint.exe
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\bin\Debug\Paint.pdb
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.frmPrincipal.resources
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.exe
+C:\Users\132173\Desktop\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.exe
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\bin\Debug\Paint.exe
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\bin\Debug\Paint.pdb
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.frmPrincipal.resources
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.Properties.Resources.resources
+D:\Guilherme\FACUL\4Sem\EDEA\09-19-14\ExMiniPaint\ExMiniPaint\obj\Debug\Paint.csproj.GenerateResource.Cache
